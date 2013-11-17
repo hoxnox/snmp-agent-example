@@ -1,1 +1,3 @@
 *.swp
+build/*
+src/snmp-agent_config.h
